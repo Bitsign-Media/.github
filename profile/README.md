@@ -16,5 +16,7 @@
     <a href="https://www.facebook.com/bitsignmediafb">Facebook</a>
     ·
     <a href="https://www.instagram.com/bitsignmedia/">Instagram</a>
+    .
+    <a href="https://www.linkedin.com/company/bitsignmedia/">LinkedIn</a>
     </p>
 </div>
