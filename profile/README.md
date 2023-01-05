@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Bitsign-Media">
-    <img src="https://user-images.githubusercontent.com/70508631/210701338-9d92bffc-3a99-4904-bb61-15ae3174d03e.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/70508631/210701683-83077f37-0f79-49dc-b6b2-311218f9156d.png" alt="Logo" width="auto" height="200px">
   </a>
 
 <h3 align="center">Bitsign Media</h3>
