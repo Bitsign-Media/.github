@@ -8,15 +8,15 @@
 <h3 align="center">Bitsign Media</h3>
 
   <p align="center">
-    Elevate your brand with digital signage
+    Mock organization for mock website
     <br />
     <a href="https://bitsignmedia.com"><strong>Explore the company»</strong></a>
     <br />
     <br />
-    <a href="https://www.facebook.com/bitsignmediafb">Facebook</a>
+    <a href="#">Facebook</a>
     ·
-    <a href="https://www.instagram.com/bitsignmedia/">Instagram</a>
+    <a href="#">Instagram</a>
     .
-    <a href="https://www.linkedin.com/company/bitsignmedia/">LinkedIn</a>
+    <a href="#">LinkedIn</a>
     </p>
 </div>
